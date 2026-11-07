@@ -1,0 +1,19 @@
+# Dependencies & build outputs
+node_modules/
+dist/
+build/
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Python virtual environments & bytecode (if applicable)
+venv/
+__pycache__/
+
+# Java / build artifacts (if applicable)
+target/
+
+# Editor and IDE configs
+.vscode/
+.idea/
